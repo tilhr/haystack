@@ -2,7 +2,9 @@
 
 Haystack is a public Discord paper trading bot for learning, competition, and community fun.
 
-https://discord.com/discovery/applications/1511935445385220167
+Discord Market: https://discord.com/discovery/applications/1511935445385220167
+
+Landing Page: https://tm44.link
 
 Users can check market quotes, build simulated portfolios, make paper trades, view trade history, and compete on leaderboards — all with no real money, no broker connection, and no financial advice.
 
@@ -58,7 +60,7 @@ Market data may be delayed, inaccurate, unavailable, or incomplete.
 
 ## Status
 
-Haystack is currently in public beta.
+Haystack is currently in public beta. 
 
 # powered with Barndoor
 
